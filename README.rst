@@ -1,7 +1,7 @@
 woe
 ===
 
-.. image:: https://travis-ci.org/justdoit0823/pywxclient.svg?branch=master
+ image:: https://travis-ci.org/justdoit0823/pywxclient.svg?branch=master
     :target: https://travis-ci.org/justdoit0823/pywxclient
 
 version: 0.1.4
